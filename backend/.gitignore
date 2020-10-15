@@ -1,2 +1,4 @@
 /node_modules
-/uploads
+uploads/*.png
+uploads/*.jpg
+uploads/*.jepg
